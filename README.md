@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karan%20S%20H&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20GenAI%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20Forecasting%20%C2%B7%20Computer%20Vision&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KARAN%20S%20H&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20GenAI%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20Forecasting%20%C2%B7%20Computer%20Vision&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+GenAI+%26+Agentic+Systems;Building+LangGraph+ReAct+Agents+%E2%9A%A1;RAG+Pipelines+%C2%B7+FAISS+%C2%B7+ChromaDB;Open+to+Relocation+%7C+Coimbatore%2C+India" alt="Typing SVG" />
 
@@ -20,7 +20,7 @@
 ### 🧑‍💻 About Me
 
 ```python
-class KaranSH:
+class KARANSH:
     def __init__(self):
         self.name = "KARAN S H"
         self.role = "AI/ML Engineer"
