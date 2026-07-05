@@ -22,7 +22,7 @@
 ```python
 class KaranSH:
     def __init__(self):
-        self.name = "Karan S H"
+        self.name = "KARAN S H"
         self.role = "AI/ML Engineer"
         self.location = "Coimbatore, Tamil Nadu, India"
         self.degree = "IIT Minor — AI & Data Science (2026)"
